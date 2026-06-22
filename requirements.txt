@@ -1,0 +1,10 @@
+transformers
+peft
+rouge-score
+datasets
+evaluate
+sentencepiece
+accelerate
+scikit-learn
+pandas
+numpy
